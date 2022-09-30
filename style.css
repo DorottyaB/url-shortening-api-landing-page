@@ -239,11 +239,11 @@ input[type='text']:invalid input[tye='text']::placeholder {
 
 .features {
   text-align: center;
-  margin-top: 10rem;
+  margin-top: 7rem;
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding-bottom: 10rem;
+  padding-bottom: 7rem;
 }
 
 h2 {
@@ -253,7 +253,7 @@ h2 {
 .features-text {
   color: var(--text-color-light);
   font-weight: 500;
-  margin: 1rem 0 2.6rem 0;
+  margin: 1rem 0 4.6rem 0;
 }
 
 .card {
@@ -610,8 +610,8 @@ h5.footer-links-title {
     grid-template-columns: repeat(3, 1fr) 2.8rem repeat(3, 1fr) 2.8rem repeat(3, 1fr);
     grid-template-rows: repeat(2, auto) 1fr;
     justify-items: center;
-    margin-top: 7rem;
-    padding-bottom: 7rem;
+    margin-top: 10rem;
+    padding-bottom: 10rem;
   }
 
   .features h2 {
