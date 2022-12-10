@@ -91,6 +91,23 @@ nav {
   height: 3px;
   margin: 8px 0;
   background-color: var(--primary-color-2);
+  transition: all 0.4s;
+}
+
+.hamburger.close {
+  height: 41px;
+}
+
+.hamburger.close .bar-1 {
+  transform: translateY(200%) rotate(45deg);
+}
+
+.hamburger.close .bar-3 {
+  display: none;
+}
+
+.hamburger.close .bar-2 {
+  transform: translateY(-140%) rotate(-45deg);
 }
 
 .nav-items {

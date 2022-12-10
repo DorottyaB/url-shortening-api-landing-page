@@ -10,6 +10,9 @@ if (window.innerWidth > 800) {
   hamburgerIcon.hidden = true;
   const mobileNav = document.querySelector('.nav-items');
   mobileNav.classList.remove('hidden');
+} else {
+  const hamburgerIcon = document.querySelector('.hamburger');
+  hamburgerIcon.addEventListener('click', () => hamburgerIcon.classList.toggle('close'));
 }
 
 const updateDOM = () => {
