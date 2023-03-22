@@ -20,7 +20,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/DorottyaB/url-shortening-api-landing-page)
-- Live Site URL: [GitHub Pages](https://dorottyab.github.io/url-shortening-api-landing-page/)
+- Live Site URL: [dorottyab.github.io/url-shortening-api-landing-page](https://dorottyab.github.io/url-shortening-api-landing-page/)
 
 ### Built with
 
